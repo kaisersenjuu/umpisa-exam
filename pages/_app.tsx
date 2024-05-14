@@ -1,4 +1,5 @@
 import GlobalStyle from "@/styles/global";
+import "../styles/fonts.css";
 import type { AppProps } from "next/app";
 import { Fragment } from "react";
 

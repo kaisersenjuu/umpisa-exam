@@ -1,11 +1,9 @@
-
-
 @font-face {
     font-family: OpenSans-Bold;
     src: url('/assets/fonts/OpenSans-Bold.ttf');
 }
 
 @font-face {
-    font-family: OpenSans-Regular;;
+    font-family: OpenSans-Regular;
     src: url('/assets/fonts/OpenSans-Regular.ttf');
 }

@@ -9,7 +9,7 @@ const GlobalStyle = createGlobalStyle`
     }
 
     html, body {
-        box-sizing: 62.5%;
+        box-sizing: border-box;
         font-size: 62.5%;
     }
 
@@ -53,7 +53,11 @@ const GlobalStyle = createGlobalStyle`
         font-size: 2.5rem;
         line-height: 3.1rem;
     }
-
+    
+    .MuiContainer-maxWidthXl {
+        max-width: 2000px !important;
+        height: 100%;
+    }
 `;
 
 export default GlobalStyle;

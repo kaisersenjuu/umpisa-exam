@@ -33,7 +33,7 @@ const HeaderMenu: React.FunctionComponent = (): React.ReactElement => {
 
   return (
     <HeaderMenuContainer $scrolled={scrolled}>
-      <Container maxWidth="xl">
+      <Container maxWidth="lg">
         <HeaderMenuFlexContainer>
           <Link href={"/"}>
             <Image

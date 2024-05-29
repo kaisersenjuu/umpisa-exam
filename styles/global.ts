@@ -54,8 +54,8 @@ const GlobalStyle = createGlobalStyle`
         line-height: 3.1rem;
     }
     
-    .MuiContainer-maxWidthXl {
-        max-width: 2000px !important;
+    .MuiContainer-maxWidthLg {
+        max-width: 1440px !important;
         height: 100%;
     }
 `;

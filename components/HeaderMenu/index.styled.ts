@@ -31,7 +31,7 @@ export const HeaderMenuIconsContainer = styled.div`
   }
 
   svg {
-    font-size: 4rem;
+    font-size: 3rem;
     border-radius: 50px;
     color: #7d879c;
 
